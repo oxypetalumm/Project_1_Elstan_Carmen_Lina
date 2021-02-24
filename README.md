@@ -1,5 +1,7 @@
 # Life_expectancy_project
 
+This project was collaborated among Elstan, Carmen, and Lina. The collaborated version of our project can be found as followed: https://github.com/elstan-tmk/Project_1.git
+
 This project uses four data sets from the above source:
 
 1) Life expectancy at birth (in years) 
