@@ -2,6 +2,8 @@
 
 This project was collaborated among Elstan, Carmen, and Lina. The collaborated version of our project can be found as followed: https://github.com/elstan-tmk/Project_1.git
 
+Data source: https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete
+
 This project uses four data sets from the above source:
 
 1) Life expectancy at birth (in years) 
@@ -26,4 +28,4 @@ Through this project and graphs presented, we are able to analyze how the life e
 
 This is also a good reminder of how the basic services in life help us live a better and healthier life compared to those less fortunate and developed countries. 
 
-Data source: https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete
+
